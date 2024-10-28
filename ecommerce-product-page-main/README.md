@@ -17,10 +17,18 @@ Users should be able to:
 
 ### Screenshot
 
+![desktop-preview](https://github.com/user-attachments/assets/3557ee0a-f636-4fa6-be40-cee0202a600e)
+
+![mobile-preview](https://github.com/user-attachments/assets/30216f0f-9042-4ac9-ad1e-b8d1d24b97c2)
+
+![thumbnail-preview](https://github.com/user-attachments/assets/b91649ea-b413-4678-85bd-b26b93920436)
+
+![checkout-preview](https://github.com/user-attachments/assets/1334d896-4e64-4364-b606-631b4b873a4a)
+
 ### Links
 
-- Solution URL: [Solution](https://github.com/Sabina1205/Frontend-mentor-challenges-4/edit/main/notifications-page-main/)
-- Live Site URL: [Live site URL here](https://notifications-page-solution-one.vercel.app/)
+- Solution URL: [Solution](https://github.com/Sabina1205/Frontend-mentor-challenges-5/tree/main/ecommerce-product-page-main)
+- Live Site URL: [Live site URL here]()
 
 ## My process
 
