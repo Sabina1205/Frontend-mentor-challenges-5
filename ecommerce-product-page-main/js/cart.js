@@ -8,6 +8,13 @@ let totalInCart = document.querySelector(".total");
 function openCart() {
   cartIcon.addEventListener("click", () => {
     cart.classList.toggle("cart-open");
+    if (count === 0) {
+      empty_cart.style.display = "flex";
+      main_cart.style.display = "none";
+    } else {
+      empty_cart.style.display = "none";
+      main_cart.style.display = "block";
+    }
   });
 }
 
@@ -66,6 +73,7 @@ function deleteProduct() {
     num.textContent = `0`;
     cartNum.textContent = `0`;
     resultNum.textContent = ``;
+    count = 0; 
   });
 }
 
@@ -78,6 +86,7 @@ function checkout() {
 
     total.textContent = `0`;
     num.textContent = `0`;
+    count = 0; 
   });
 }
 
