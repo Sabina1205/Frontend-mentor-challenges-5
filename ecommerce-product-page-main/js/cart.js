@@ -73,7 +73,7 @@ function deleteProduct() {
     num.textContent = `0`;
     cartNum.textContent = `0`;
     resultNum.textContent = ``;
-    count = 0; 
+    count = 0;
   });
 }
 
@@ -86,10 +86,8 @@ function checkout() {
 
     total.textContent = `0`;
     num.textContent = `0`;
-    count = 0; 
+    count = 0; // Reset the count to 0
   });
 }
-
-console.log(cartItem);
 
 checkout();
