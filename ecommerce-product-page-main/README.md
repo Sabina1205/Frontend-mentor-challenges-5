@@ -19,8 +19,8 @@ Users should be able to:
 
 ### Links
 
-- Solution URL: [Solution](https://github.com/Sabina1205/Frontend-mentor-challenges-4/edit/main/notifications-page-main/)
-- Live Site URL: [Live site URL here](https://notifications-page-solution-one.vercel.app/)
+- Solution URL: [Solution](https://github.com/Sabina1205/Frontend-mentor-challenges-5/edit/master/ecommerce-product-page-main)
+- Live Site URL: [Live site URL here](https://ecommerce-product-page-nlc7vxqa4-sabinas-projects-75ca0471.vercel.app/#)
 
 ## My process
 
