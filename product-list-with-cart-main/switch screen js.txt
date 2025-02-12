@@ -1,0 +1,20 @@
+ /*
+      let windowWidth = window.innerWidth;
+      let currentScreen;  
+      const updateImages = () => {
+        // Determine the appropriate image source based on window width
+        switch (true) {
+          case windowWidth >= 375 && windowWidth < 980:
+            currentScreen = items.image.tablet;
+            break;
+          case windowWidth >= 320 && windowWidth < 375:
+            currentScreen = items.image.mobile;
+            break;
+          case windowWidth < 320:
+            currentScreen = items.image.thumbnail;
+            break;
+          default:
+            currentScreen = items.image.desktop;
+        }
+      };
+      */
