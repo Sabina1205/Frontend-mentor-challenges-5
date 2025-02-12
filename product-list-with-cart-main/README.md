@@ -17,10 +17,18 @@ Users should be able to:
 
 ### Screenshot
 
+![product-preview](https://github.com/user-attachments/assets/250beb63-71bc-4a73-a93b-4cae98f1b5d6)
+
+![products-in-cart](https://github.com/user-attachments/assets/99958e13-bfd7-473d-870a-6bc292f845cb)
+
+![conformation-preview](https://github.com/user-attachments/assets/8fb904fa-0abe-40af-a285-c2f4f80f081f)
+
+![mobile-version](https://github.com/user-attachments/assets/f1bced36-5b54-41c2-9e23-5008d9fc6b6b)
+
 ### Links
 
-- Solution URL: [Solution](https://github.com/Sabina1205/Frontend-mentor-challenges-5/edit/master/ecommerce-product-page-main)
-- Live Site URL: [Live site URL here](https://ecommerce-product-page-nlc7vxqa4-sabinas-projects-75ca0471.vercel.app/#)
+- Solution URL: [Solution](https://github.com/Sabina1205/Frontend-mentor-challenges-5/tree/master/product-list-with-cart-main)
+- Live Site URL: [Live site URL here]()
 
 ## My process
 
